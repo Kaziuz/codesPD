@@ -1,19 +1,14 @@
-# _LEEME_
+# LEEME 
 
-## ** Can Trash **
+## Can Trash 
 
 ### Description.
+________________
 
 The following patch puredata is built in order to play some audio samples randomly
 
-```
-2013.
-```
+### Image patch pd
 
-- Necesitas también tener instalado ** SimpleOpenNI **. [SimpleOpenNI Librarie Download](http://www.sojamo.de/libraries/oscP5/)
-- Finalmente instala [Puredata](http://puredata.info/).
-- Diviertase :)
-
-[Captura](https://drive.google.com/#folders/0B3kYFcies4A9RjdZdklmdXNhVVU)
-
+![patch Pd](https://drive.google.com/?tab=mo&authuser=0#folders/0B3kYFcies4A9RjdZdklmdXNhVVU)
+![Installation](https://drive.google.com/?tab=mo&authuser=0#folders/0B3kYFcies4A9RjdZdklmdXNhVVU)
 
