@@ -5,7 +5,7 @@
 ### Description.
 ________________
 
-The following patch puredata is built in order to play some audio samples randomly
+El siguiente programa esta construido en puredata.
 
 ### Image patch pd
 
