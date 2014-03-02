@@ -12,8 +12,9 @@ void setup()
   size(400, 400);
   frameRate(75);
   smooth();
-  oscP5 = new OscP5(this, 12001);
-  myRemoteLocation = new NetAddress("127.0.0.1", 9000);
+  oscP5 = new OscP5(this, 8000);
+  //  dirección IP computadora
+  myRemoteLocation = new NetAddress("192.168.1.1", 8000);
   smooth();
 }
 
